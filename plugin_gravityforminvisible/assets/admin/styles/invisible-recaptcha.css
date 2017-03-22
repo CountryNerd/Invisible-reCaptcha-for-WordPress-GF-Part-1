@@ -1,0 +1,9 @@
+form.mch-module-settings-form.ic-settings input[type="text"]
+{
+    width: 390px;
+}
+
+form.mch-module-settings-form.ic-wordpress-settings th, form.mch-module-settings-form.ic-contactforms-settings th,form.mch-module-settings-form.ic-woocommerce-settings th
+{
+    width: 20%;
+}
